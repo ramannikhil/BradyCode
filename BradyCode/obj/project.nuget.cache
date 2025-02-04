@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5B4bJJAW/Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\BradyCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raman Nikhil B\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.1\\system.configuration.configurationmanager.9.0.1.nupkg.sha512",
+    "C:\\Users\\Raman Nikhil B\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Raman Nikhil B\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.1\\system.security.cryptography.protecteddata.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
