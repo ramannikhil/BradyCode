@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\xmlbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\xmlbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\xmlfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\xmlfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\fileupdatenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\fileupdatenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\constantdict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\constantdict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\bradycode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\bradycode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\model\\generationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\model\\generationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|c:\\users\\raman nikhil b\\source\\repos\\bradycode\\bradycode\\constantdict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A67953C-7298-4592-B88A-A590C106081C}|BradyCode\\BradyCode.csproj|solutionrelative:bradycode\\constantdict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 226,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,65 +82,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BradyCode",
+              "DocumentMoniker": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\BradyCode.csproj",
+              "RelativeDocumentMoniker": "BradyCode\\BradyCode.csproj",
+              "ToolTip": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\BradyCode.csproj",
+              "RelativeToolTip": "BradyCode\\BradyCode.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T16:55:25.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "BradyCode\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\ConfigReader.cs",
+              "RelativeToolTip": "BradyCode\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:50:55.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "XmlFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\XmlFileReader.cs",
+              "RelativeDocumentMoniker": "BradyCode\\XmlFileReader.cs",
+              "ToolTip": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\XmlFileReader.cs",
+              "RelativeToolTip": "BradyCode\\XmlFileReader.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswGwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:11:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "XmlBuilder.cs",
               "DocumentMoniker": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\XmlBuilder.cs",
               "RelativeDocumentMoniker": "BradyCode\\XmlBuilder.cs",
               "ToolTip": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\XmlBuilder.cs",
               "RelativeToolTip": "BradyCode\\XmlBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T11:05:19.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\Program.cs",
               "RelativeDocumentMoniker": "BradyCode\\Program.cs",
               "ToolTip": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\Program.cs",
               "RelativeToolTip": "BradyCode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T11:05:10.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FileUpdateNotifier.cs",
               "DocumentMoniker": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\FileUpdateNotifier.cs",
               "RelativeDocumentMoniker": "BradyCode\\FileUpdateNotifier.cs",
               "ToolTip": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\FileUpdateNotifier.cs",
               "RelativeToolTip": "BradyCode\\FileUpdateNotifier.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T10:55:42.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ConstantDict.cs",
               "DocumentMoniker": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\ConstantDict.cs",
               "RelativeDocumentMoniker": "BradyCode\\ConstantDict.cs",
               "ToolTip": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\ConstantDict.cs",
               "RelativeToolTip": "BradyCode\\ConstantDict.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T10:55:37.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GenerationOutput.cs",
               "DocumentMoniker": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\Model\\GenerationOutput.cs",
               "RelativeDocumentMoniker": "BradyCode\\Model\\GenerationOutput.cs",
               "ToolTip": "C:\\Users\\Raman Nikhil B\\source\\repos\\BradyCode\\BradyCode\\Model\\GenerationOutput.cs",
               "RelativeToolTip": "BradyCode\\Model\\GenerationOutput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T10:55:27.72Z",
               "EditorCaption": ""

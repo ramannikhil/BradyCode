@@ -6,8 +6,7 @@ namespace BradyCode
     {
         public void NotifyFIleChange()
         {
-            string inputFilePathDir = ConfigurationManager.AppSettings["inputFilePathDir"];
-            
+            string inputFilePathDir = ConfigReader.InputFilePathDir;
             var isValidPathDir = Path.IsPathFullyQualified(inputFilePathDir);
 
             try
@@ -24,7 +23,6 @@ namespace BradyCode
                 XmlBuilder xmlBuilder = new XmlBuilder();
                 watcher.Changed += xmlBuilder.OnChanged;
                 watcher.Filter = "*.xml";
-                watcher.IncludeSubdirectories = true;
                 watcher.EnableRaisingEvents = true;
             }
             catch (DirectoryNotFoundException ex)

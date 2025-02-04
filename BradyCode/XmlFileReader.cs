@@ -104,18 +104,12 @@ namespace BradyCode
             return double.TryParse(value, out double result) ? result : 0f;
         }
 
-        // todo move to different class and split the functionality
         public double ReferenceDataXmlReader(string generatorName, string factor)
         {
-            string referenceXmlDataPath = ConfigurationManager.AppSettings["referenceXmlData"];
+            string referenceXmlDataPath = ConfigReader.ReferenceXmlData;
             XDocument xml = XDocument.Load(referenceXmlDataPath);
             var factorElement = xml?.Root?.Element("Factors");
 
-
-            // declare the ef vf dictinoary here
-            //ConstantDict f1 = new ConstantDict();
-
-            //var referenceDict = ConstantDict.GeneratorTypeMap[generatorName];
             Dictionary<string, string> referenceDict;
             ConstantDict.GeneratorTypeMap.TryGetValue(generatorName, out referenceDict);
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BradyCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e593aa3134a6ece4ca5d35da8bf740c61226369a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4015a06de0e0e3480b1780cba7c3600a1784f637")]
 [assembly: System.Reflection.AssemblyProductAttribute("BradyCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BradyCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
